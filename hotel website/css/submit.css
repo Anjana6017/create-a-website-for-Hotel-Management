@@ -1,0 +1,15 @@
+.center {
+  align-items: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid #00a11e;
+    padding: 10px;
+  }
+
+  .gif {
+    align-items: right;
+      margin: auto;
+      width: 50%;
+    }
+    
+  
